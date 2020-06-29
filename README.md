@@ -33,7 +33,7 @@ stage('It's for Deploy') {
 				cd
             }
 			
-		}	
+		)	
     }
 }
 
